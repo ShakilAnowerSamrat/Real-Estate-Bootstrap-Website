@@ -18,5 +18,5 @@ This project is a responsive real estate website template built with Bootstrap 5
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/real-estate-bootstrap.git
-](https://github.com/ShakilAnowerSamrat/Real-Estate-Bootstrap-Website.git)
+   git clone [[https://github.com/yourusername/real-estate-bootstrap.git](https://github.com/ShakilAnowerSamrat/Real-Estate-Bootstrap-Website.git)
+]
